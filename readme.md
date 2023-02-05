@@ -38,6 +38,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
 - [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
 - [React Roadmap](https://roadmap.sh/react)
 - [Vue Roadmap](https://roadmap.sh/vue)
 - [Angular Roadmap](https://roadmap.sh/angular)
@@ -53,6 +54,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
 - [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
+- [System Design Roadmap](https://roadmap.sh/system-design)
 
 ![](https://i.imgur.com/waxVImv.png)
 
